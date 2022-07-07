@@ -13,4 +13,9 @@
 
 This is all about [Shadow Walker 松烟阁](https://edony.ink/).
 
+<!-- 
+** github-readme-stats NOT WORKING FOR ORGNIZATION NOW **
+
 [![Shadow Walker's GitHub stats](https://github-readme-stats.vercel.app/api?username=edony-shadow-walker&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
