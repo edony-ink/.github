@@ -11,4 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-https://edony.ink/
+This is all about [Shadow Walker 松烟阁](https://edony.ink/).
+
+[![Shadow Walker's GitHub stats](https://github-readme-stats.vercel.app/api?username=edony-shadow-walker&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
