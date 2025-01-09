@@ -13,6 +13,10 @@
 
 This is all about [Shadow Walker 松烟阁](https://edony.ink/).
 
+<div align="center" style="display:flex;flex-direction:row;">
+<div align="center">
+  <img src="https://profile-counter.glitch.me/edonyzpc/count.svg?"  />
+</div>
 <!-- 
 ** github-readme-stats NOT WORKING FOR ORGNIZATION NOW **
 
